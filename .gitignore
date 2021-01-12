@@ -1,0 +1,11 @@
+# checkpoint
+*.checkpoint
+
+# 데이터 파일
+*.csv
+*.json
+
+
+# 특정 파일
+21.01.04문제풀이.ipynb
+08.데이터프레임(강사님).ipynb
