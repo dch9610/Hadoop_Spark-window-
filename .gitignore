@@ -4,7 +4,10 @@
 # 데이터 파일
 *.csv
 *.json
-
+*.txt
+*.xlsx
+*.zip
+*.npy
 
 # 특정 파일
 21.01.04문제풀이.ipynb
