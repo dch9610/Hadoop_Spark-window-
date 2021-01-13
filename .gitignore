@@ -1,5 +1,5 @@
 # checkpoint
-*.checkpoint
+*checkpoint.ipynb
 
 # 데이터 파일
 *.csv
