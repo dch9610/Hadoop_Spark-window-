@@ -10,6 +10,7 @@
 *.npy
 graph.py
 *.png
+*.jpg
 
 # 특정 파일
 21.01.04문제풀이.ipynb
